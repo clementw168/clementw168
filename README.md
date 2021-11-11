@@ -6,9 +6,6 @@ Hi, I’m Clement Wang. I was born in Paris with Chinese parents. I've lived in 
 
 As a human being, I have some hobbits ! 
 
-## Animes 
-
-First one, I'll start with animes. Animes played a huge role in my existence. When I was a child (well, I still am a child but I've grown up a bit), I was not able to blend in because I was too big-headed to fit in. So yeah, I used to watch animes, hundreds of animes. 
 
 ## Coding and AI
 
@@ -18,6 +15,9 @@ I did not start to code while being really young. In fact, I discovered algorith
 
 I really like doing sports, like running, playing basketball and volleyball. 
 
+## Animes 
+
+First one, I'll start with animes. Animes played a huge role in my existence. When I was a child (well, I still am a child but I've grown up a bit), I was not able to blend in because I was too big-headed to fit in. So yeah, I used to watch animes, hundreds of animes. 
 
 
 <!---
