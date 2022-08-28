@@ -45,6 +45,6 @@
         <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-        <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src=assets/weights-and-biases.svg alt="weights and biases" width="40" height="40"/> </a>
+        <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src=assets/weights-and-biases.png alt="weights and biases" width="40" height="40"/> </a>
 
     </p>
