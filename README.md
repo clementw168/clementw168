@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Clement Wang</h1>
 <h3 align="center">Datascientist and Master of Engineer Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
 
-- 🌴 Currently in **Los Angeles**, at [Polygon](https://hellopolygon.com), as a Datascientist intern
-- 🔍 **Looking for a 5/6-month SWE internship starting February 2023**
-- 🧐 Passionate about everything related to learning algorithms.
+- 🌴 Currently in **Los Angeles**, at [Polygon](https://hellopolygon.com), as a Datascientist intern.
+- 🔍 **Looking for a 5/6-month SWE internship starting February 2023**.
+- 🧐 Passionate about anything related to learning algorithms.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
