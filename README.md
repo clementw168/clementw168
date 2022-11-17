@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Clement Wang</h1>
-<h3 align="center">Datascientist and Master of Engineer Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
+<h3 align="center">Datascientist and Master of Sciencce Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
 
 - 🌴 Currently in **Los Angeles**, at [Polygon](https://hellopolygon.com), as a Datascientist intern.
 - 🔍 **Looking for a 5/6-month Data scientist internship starting February 2023**.
