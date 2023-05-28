@@ -1,19 +1,19 @@
-<img align="center" src="assets/polygon-banner.png" alt="polygon-banner"/>
+<img align="center" src="assets/banners/stryker.jpg" alt="banner"/>
 
 ---
 
 <h1 align="center">Hi 👋, I'm Clement Wang</h1>
-<h3 align="center">Datascientist and Master of Sciencce Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
+<h3 align="center">Machine learning enthousiast and Master of Science Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
 
-- 🌴 Currently in **Los Angeles**, at [Polygon](https://hellopolygon.com), as a Datascientist intern.
-- 🔍 **Looking for a 5/6-month Data scientist internship starting February 2023**.
+- 🌴 Currently in **Freiburg, Germany**, at [Stryker](https://www.stryker.com/de/en/index.html), as a Computer vision R&D intern.
+- 🔍 **Looking for a 6-month internship starting in April 2024**.
 - 🧐 Passionate about anything related to learning algorithms.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/clem-wang" target="blank"><img align="center" src="assets/linkedin.svg" alt="https://linkedin.com/in/clem-wang" height="30" width="40" /></a>
-    <a href="mailto:clementwang.pro@gmail.com" target="blank"><img align="center" src="assets/mail.png" alt="mailto:clementwang.pro@gmail.com" height="50" width="40" /></a>
-    <a href="https://instagram.com/clementw168" target="blank"><img align="center" src="assets/instagram.svg" alt="https://instagram.com/clementw168" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/clem-wang" target="blank"><img align="center" src="assets/icon/linkedin.svg" alt="https://linkedin.com/in/clem-wang" height="30" width="40" /></a>
+    <a href="mailto:clementwang.pro@gmail.com" target="blank"><img align="center" src="assets/icon/mail.png" alt="mailto:clementwang.pro@gmail.com" height="50" width="40" /></a>
+    <a href="https://instagram.com/clement_wang_" target="blank"><img align="center" src="assets/icon/instagram.svg" alt="https://instagram.com/clement_wang_" height="30" width="40" /></a>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 - Programming Languages:
     <p align="left">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="assets/python.svg" alt="python" width="40" height="40"/> </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="assets/icon/python.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     </p>
@@ -39,12 +39,85 @@
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
     </p>
 
-- Tools:
+- Techs:
     <p align="left">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
         <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-        <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src=assets/weights-and-biases.png alt="weights and biases" width="40" height="40"/> </a>
+        <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src=assets/icon/weights-and-biases.png alt="weights and biases" width="40" height="40"/> </a>
+        <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src=assets/icon/aws.png alt="AWS" width="40" height="40"/> </a>
+
 
     </p>
+
+
+
+---
+<details>
+<summary> My Deep learning beliefs </summary>
+<br>
+
+- Simpler is better
+- If it does not work, there is a reason behind
+- Theory unlocks imagination, experience brings intuition
+- Theory is not enough, while testing takes time
+- Solving a problem is not getting the best metric
+
+
+</details>
+
+<br>
+<details>
+
+<summary> Deep learning topics I worked on </summary> 
+<br>
+
+Computer vision:
+
+- Image classification and regression
+- GAN
+- Perceptual loss, neural style transfer, super-resolution
+- Object detection: RCNNs, YOLOs
+- Semantic segmentation
+- Key points detection
+- Few shot learning
+
+Text & Images
+- CLIP 
+- Diffusion models: Stable diffusion, Dreambooth, Controlnet
+
+
+NLP:
+- Text classification
+
+Speech:
+- Voice activity detection
+- Speech-to-text
+
+Time series:
+- Time series classification
+- Breakpoint detection
+
+Other:
+- Uncertainty estimation
+
+
+</details>
+
+
+<br>
+<details>
+
+<summary> A few facts about me </summary> 
+<br>
+
+- I was born Asian, grew up in a French environment and chose to be an international guy.
+
+- I am a sports addict: volleyball, bouldering, spikeball, running, biking...
+- There is no fun if I don't aim for the best. Being competitive brings so much and it is ok not to be the best. 
+- I love both spending my time reading philosophy in a silent park and partying with friends.
+- One day, I was playing basketball to cool down after an exam. I slipped on a clementine and broke my ankle. Then I walked with crutches for 2 months. 
+
+</details>
+
