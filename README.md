@@ -55,7 +55,7 @@
 
 ---
 <details>
-<summary> My Deep learning beliefs </summary>
+<summary><h3> My Deep learning beliefs </h3></summary>
 <br>
 
 - Simpler is better
@@ -70,7 +70,7 @@
 <br>
 <details>
 
-<summary> Deep learning topics I worked on </summary> 
+<summary><h3> Deep learning topics I worked on </h3></summary> 
 <br>
 
 Computer vision:
@@ -105,8 +105,169 @@ Other:
 
 </details>
 
+<br>
+
+
+<details>
+
+<summary><h3> Projects overview </h3></summary> 
+<br>
+
+These projects are ordered chronogically. Not everything is related to AI. 
+
+
+
+<details>
+
+<summary><h4> Student projects </h4></summary> 
+<br>
+
+
+<details>
+<summary><h5> French Robotic Cup </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Medical data analysis </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Tabular data competition </h5></summary> 
+<br>
+</details>
+
+</details>
+
+
+<details>
+<summary><h4> Automatants, AI student organization </h4></summary> 
+<br>
+
+<details>
+<summary><h5> GAN: Cat generator - Tensorflow, Keras, Tensorflow JS </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Neural Style Transfer - Tensorflow </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Imbalanced classification - Tensorflow </h5></summary> 
+<br>
+</details>
+
+</details> 
+
+<details>
+<summary><h4> ViaRézo, tech student association </h4></summary> 
+<br>
+
+<details>
+<summary><h5> Website CI/CD - Gitlab </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Personal website - NodeJS, Docker, HTML, CSS </h5></summary> 
+<br>
+</details>
+
+</details>
+
+
+</details>
+<details>
+<summary><h4> Paris Digital Lab - Digital Tech Year </h4></summary> 
+<br>
+
+<details>
+<summary><h5> Confidential company, YoloV3 on radio wave detection - Pytorch </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> L'Oréal Research&Innovation, Retrieving lipstick on selfies - Tensorflow </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Oorion, Personalized object detection with CLIP - Pytorch </h5></summary> 
+<br>
+</details>
+
+</details>
+
+<details>
+<summary><h4> Polygon Technologies </h4></summary> 
+<br>
+
+<details>
+<summary><h5> Timeseries extraction: Voice activity, key points, transcripts </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> AWS Cloud computing with Batch service </h5></summary> 
+<br>
+</details>
+
+
+</details>
+
+<details>
+<summary><h4> Photogen AI </h4></summary> 
+<br>
+<details>
+<summary><h5> Dreambooth adaptation to realistic images </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Implementation of AWS infrastructure and costs optimization </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Paris Gen AI Hackathon </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Multi people image generation </h5></summary> 
+<br>
+</details>
+
+
+</details>
+
+
+<details>
+<summary><h4> Stryker </h4></summary> 
+<br>
+
+<details>
+<summary><h5> 3D calibration of chirurgical tools </h5></summary> 
+<br>
+</details>
+
+<details>
+<summary><h5> Extremely accucurate subpixel coordinate regression </h5></summary> 
+<br>
+</details>
+
+
+</details>
+
+
+</details>
+
 
 <br>
+
 <details>
 
 <summary> A few facts about me </summary> 
