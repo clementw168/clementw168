@@ -122,20 +122,68 @@ These projects are ordered chronogically. Not everything is related to AI.
 <summary><h4> Student projects </h4></summary> 
 <br>
 
+![CentraleSupélec banner](/assets/banners/CS-saclay.png)
+
+As a student, I was still not sure what I wanted to do in my life. After a Bachelor in maths, physics and algorithmics and I got into one of the best university of France. That's when I started to try out different things...
+
+<details>
+<summary><h5> Game Jam: 3D Horror Game </h5></summary>
+<br>
+
+Game trailer|
+:-----:|
+[![Watch the video](https://drive.google.com/thumbnail?id=1N7Q-E08OffNUhwCf3AvRQVnei_BoTcfR)](https://drive.google.com/file/d/1N7Q-E08OffNUhwCf3AvRQVnei_BoTcfR/view?usp=drive_link) |
+
+My very first group coding project with a team of 5 people. We designed and developed a 3D Horror Game on Unity in C# within 1 week.
+
+I mainly worked on the interactions with the environment, the fighting gameplay and mobs' behavior.
+
+You can download the game [here](https://drive.google.com/file/d/1QAxTDq3LyYiQcaBdpUdU7sxK0e0sgb4l/view?usp=drive_link).
+
+Unity, Blender, C#
+
+</details>
 
 <details>
 <summary><h5> French Robotic Cup </h5></summary> 
 <br>
+
+Our robot           | Photo of the playground
+:-------------------------:|:-------------------------:
+![Photo of our robot](assets/images/croc_1.jpg)  |  ![Photo of the playground](assets/images/croc_2.jpg)
+
+Building an autonomous robot that moves in a defined environment and move objects within a team of 11 people in about one year.
+
+We had a fixed camera outside of the game board. I worked on the localization of the robot and the detection of the objects and obstacles from the camera and the transmission of this information. 
+
+OpenCV, Python, Bluetooth
+
 </details>
 
 <details>
-<summary><h5> Medical data analysis </h5></summary> 
+<summary><h5> Medical data analysis with unsupervised methods </h5></summary> 
 <br>
+
+![Logo of Pasteur institut](assets/images/pasteur.jpg) 
+
+One week project in colaboration with the Pasteur institut. Study of links between genes from reactions to different stimulus on R. 
+
+R Studio, Unsupervised learning, PCA, Joint graphical lasso
+
 </details>
 
 <details>
-<summary><h5> Tabular data competition </h5></summary> 
+<summary><h5> Tabular data competition: Classification of buildings from geodata and metadata </h5></summary> 
 <br>
+
+Visualization of geo data|
+:-----:|
+![Visualization of geo data](assets/images/tabular_compet.jpg)|
+
+Ranked 2nd over 72 in a course competition on tabular data competition. 
+
+Tabular data, XGBoost, Feature engineering, Light GBM, CatBoost, Random forest
+
 </details>
 
 </details>
@@ -145,18 +193,34 @@ These projects are ordered chronogically. Not everything is related to AI.
 <summary><h4> Automatants, AI student organization </h4></summary> 
 <br>
 
+![Automatants banner](assets/banners/automatants-banner.jfif)
+
+Automatants is the AI student organization of CentraleSupélec. It promotes Machine learning at CentraleSupélec, gathering skills and sharing knowledge through courses, events, competitions and projects. 
+
 <details>
-<summary><h5> GAN: Cat generator - Tensorflow, Keras, Tensorflow JS </h5></summary> 
+<summary><h5> GAN: Cat generator  </h5></summary> 
 <br>
+
+Tensorflow, Keras, Tensorflow JS
 </details>
 
 <details>
-<summary><h5> Neural Style Transfer - Tensorflow </h5></summary> 
+<summary><h5> Neural Style Transfer  </h5></summary> 
 <br>
+Tensorflow
 </details>
 
 <details>
-<summary><h5> Imbalanced classification - Tensorflow </h5></summary> 
+<summary><h5> Imbalanced classification </h5></summary> 
+<br>
+
+Tensorflow
+</details>
+
+</details> 
+
+<details>
+<summary><h5> Genetic algorithm for mazes </h5></summary> 
 <br>
 </details>
 
