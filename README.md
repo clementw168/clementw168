@@ -240,7 +240,7 @@ After GANs, I got hooked into perceptual losses. The idea of designing a "percep
 After implementing the vanilla version of neural style transfer, I wanted to have a quicker method to get stylish images so I implemented fast neural style transfer. I consists in using a generator network to directly transform an image to minimize the perceptual loss. I managed to transfer style in real-time from my camera. 
 
 Tensorflow, Keras, OpenCV
-Perceptual loss, Neural style transfer, Fast NST
+Perceptual loss, Neural style transfer, Fast NST, VGG loss
 
 </details>
 
@@ -248,9 +248,18 @@ Perceptual loss, Neural style transfer, Fast NST
 <summary><h5> Imbalanced classification </h5></summary> 
 <br>
 
+Visualization of the dataset|
+:-----:|
+![Quickdraw Dataset](assets/images/quickdraw.jpg)|
+
+Winning a competition on imbalanced image classification. This competition was the occasion to apply everything I learned in one year.
+
+My best model was an ensemble of MobileNetv2 nets trained with semi-supervised learning and a lot of regularization (label smoothing, drop out, weight decay).
+
+[Here](https://github.com/clementw168/Imbalanced-Quickdraw) is the repository of my code for more details.
 
 Tensorflow, Keras
-Imbalanced dataset, Resnet, MobileNetv2, ShuffleNetv2, Few-shot image classification
+Imbalanced dataset, Resnet, MobileNetv2, ShuffleNetv2, Few-shot image classification, Semi-supervised learning, Regularization
 
 </details> 
 
