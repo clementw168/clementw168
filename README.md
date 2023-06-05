@@ -198,24 +198,59 @@ Tabular data, XGBoost, Feature engineering, Light GBM, CatBoost, Random forest
 Automatants is the AI student organization of CentraleSupélec. It promotes Machine learning at CentraleSupélec, gathering skills and sharing knowledge through courses, events, competitions and projects. 
 
 <details>
-<summary><h5> GAN: Cat generator  </h5></summary> 
+<summary><h5> President of the association </h5></summary>
 <br>
+From January 2021 to January 2022, I was the President of this student organization. It was probably the most fulfilling experience of my life. 20 people, tens of events, competition and so much fun.
 
-Tensorflow, Keras, Tensorflow JS
+Here are some images: 
+
+TODO: insert images.
+
+
 </details>
 
 <details>
-<summary><h5> Neural Style Transfer  </h5></summary> 
+<summary><h5> GAN: Cat generator  </h5></summary> 
 <br>
-Tensorflow
+
+Generated cats|
+:-----:|
+![Generated cats](assets/images/gan.png)|
+
+This was my very first Deep learning personal project. The goal was to generate cat images. I got a dataset from the internet and I took my very first step in Deep learning.
+
+I started with a simple DCGAN, then a GAN with residual connexions, changed the loss to a Wasserstein loss and at the end I trained Progressive GAN. I read the papers for Style GAN but did not implement it.
+
+To make it public, I served it on the website of my association with Tensorflow JS. Try it [here](https://automatants.cs-campus.fr/projects/cat-generator).
+
+
+Tensorflow, Keras, Tensorflow JS
+GAN, Resnet, Progressive GAN, Wasserstein loss, Style GAN
+
+</details>
+
+<details>
+<summary><h5> Perceptual loss: Neural Style Transfer  </h5></summary> 
+<br>
+
+TODO: images
+
+After GANs, I got hooked into perceptual losses. The idea of designing a "perceptual loss" instead of using a pixelwise loss so interesting that I had to implement it. 
+
+After implementing the vanilla version of neural style transfer, I wanted to have a quicker method to get stylish images so I implemented fast neural style transfer. I consists in using a generator network to directly transform an image to minimize the perceptual loss. I managed to transfer style in real-time from my camera. 
+
+Tensorflow, Keras, OpenCV
+Perceptual loss, Neural style transfer, Fast NST
+
 </details>
 
 <details>
 <summary><h5> Imbalanced classification </h5></summary> 
 <br>
 
-Tensorflow
-</details>
+
+Tensorflow, Keras
+Imbalanced dataset, Resnet, MobileNetv2, ShuffleNetv2, Few-shot image classification
 
 </details> 
 
@@ -238,8 +273,6 @@ Tensorflow
 <details>
 <summary><h5> Personal website - NodeJS, Docker, HTML, CSS </h5></summary> 
 <br>
-</details>
-
 </details>
 
 
