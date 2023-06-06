@@ -195,7 +195,7 @@ Tabular data, XGBoost, Feature engineering, Light GBM, CatBoost, Random forest
 
 ![Automatants banner](assets/banners/automatants-banner.jfif)
 
-Automatants is the AI student organization of CentraleSupélec. It promotes Machine learning at CentraleSupélec, gathering skills and sharing knowledge through courses, events, competitions and projects. 
+[Automatants](https://automatants.cs-campus.fr/) is the AI student organization of CentraleSupélec. It promotes Machine learning at CentraleSupélec, gathering skills and sharing knowledge through courses, events, competitions and projects. 
 
 <details>
 <summary><h5> President of the association </h5></summary>
@@ -289,14 +289,28 @@ OOP, Genetic algorihtm, Pygame
 <summary><h4> ViaRézo, tech student association </h4></summary> 
 <br>
 
+[ViaRézo](https://viarezo.fr/) is the tech student association of CentraleSupélec. It provides an internet access and many web services (mailing lists, VMs, social media, etc.) to more than 2000 students.
+
+I joined this association at the same time as Automatants but I gradually left because of the lack of theoretical challenge. 
+
 <details>
 <summary><h5> Website CI/CD - Gitlab </h5></summary> 
 <br>
+
+Simple project of creating CI/CD scripts on existing WebApps. Quality checkers, unit tests, automatic deployment.
+
+Workflow, CI/CD, Gitlab, Github
+
 </details>
 
 <details>
-<summary><h5> Personal website - NodeJS, Docker, HTML, CSS </h5></summary> 
+<summary><h5> Personal website</h5></summary> 
 <br>
+
+Create a simple website with a Node JS Backend, and "handmade" Frontend with HTML and CSS. Encapsulating it with Docker and deploying it on a VM. 
+
+VM, Docker, Node JS, HTML, CSS
+
 </details>
 
 
