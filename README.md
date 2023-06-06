@@ -377,14 +377,34 @@ Few-shot image classification, few-shot object detection, class agnostic detecti
 <summary><h4> Polygon Technologies </h4></summary> 
 <br>
 
-<details>
-<summary><h5> Timeseries extraction: Voice activity, key points, transcripts </h5></summary> 
-<br>
-</details>
+Six months internship at Polygon. [Polygon](https://hellopolygon.com/) is a new kind of psychology practice that provides remote diagnostics for dyslexia, ADHD, and other learning differences. The company is based at Santa Monica, California, United States. 
+
 
 <details>
-<summary><h5> AWS Cloud computing with Batch service </h5></summary> 
+
+<summary><h5> Diagnostic assistance with AI </h5></summary> 
 <br>
+
+
+I worked on a project to assist diagnosis of learning differences. The global idea is that we record testing sessions of patients with a camera. 
+
+From these videos, we extract all the usefull information as timeseries. And then, we use these timeseries to understand what happened at what moment because of what. This approach gets rid of high dimensional video data. At the same time, it makes the global pipeline much more interpretable which is so important in the medical field where mistakes can cost a lot.
+
+
+Here is a list of key features I worked on:
+- Unifying all the data on AWS Storage
+- Data cleaning and standardization
+- Voice activity detection with Gaussian mixture models
+- 3D face landmarks detection with Face alignment nets
+- Benchmarking speech-to-text solutions (Whisper, AWS Transcribe, ...)
+- Setting up AWS Batch pipelines to optimize features extraction costs
+- Timeseries visualization with Plotly and Streamlit
+- Timeseries classification
+
+AWS, Docker, Pytorch, Steamlit, Plotly
+Face landmarks detection, Voice activity detection, Speech-to-text
+
+
 </details>
 
 
