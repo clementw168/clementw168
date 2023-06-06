@@ -319,19 +319,56 @@ VM, Docker, Node JS, HTML, CSS
 <summary><h4> Paris Digital Lab - Digital Tech Year </h4></summary> 
 <br>
 
+After one and half year studying general engineering, I wanted to discover the professional world so I started my one and half gap year.
+
+My first internship was with the Paris Digital Lab, a tech consulting company as a Machine learning consultant. I did 3 projects of 7 weeks with different companies, each of them with a Minimal viable product at the end following Scrum methodology. 
+
+Consulting was not my thing. Even though projects can be very different and challenging, most of the time, they were theoretically too simple and I had no right to choose what to work on.  
+
 <details>
-<summary><h5> Confidential company, YoloV3 on radio wave detection - Pytorch </h5></summary> 
+<summary><h5> Confidential company, YoloV3 on radio wave detection </h5></summary> 
 <br>
+
+This project was about detecting and classifying radio signal in the IQ format. The IQ format is a timeseries of complex numbers, representing two orthogonal components of a radio signal.
+
+A visualization of the Fast Fourrier Transform of the signal was enough to convince us that Object detection was a good way to solve that problem. 
+
+YOLOv3 achieved 0.95 mAP @ IOU 0.5 on the task.
+
+Pytorch, YOLO, RCNN, Object detection, Unet, Semantic segmentation, signal processing
+
+
 </details>
 
 <details>
-<summary><h5> L'Oréal Research&Innovation, Retrieving lipstick on selfies - Tensorflow </h5></summary> 
+<summary><h5> L'Oréal Research&Innovation, Retrieving lipstick from selfies </h5></summary> 
 <br>
+
+This project is about lipstick retrieval from a selfie. The approach is to first, find the lips with Face landmarks detection, then crop on these lips and predict optical properties on the lipstick. From these properties, find the best fit in a database of lipsticks. 
+
+I used Dlib out-of-the-box for the face landmarks detection. The regression task was made with a regression CNN. And then the matching was a weighted L2 score on optical properties.
+
+The available data was generated with a GAN. For the colors, I had to move into the LAB space to have a perceptual distance. The client also wanted an estimation of the uncertainty for each prediction so I implemented [Deep evidential regression](https://arxiv.org/abs/1910.02600).
+
+Tensorflow, Deep regression, Uncertainty estimation, Dlib
+
+
 </details>
 
 <details>
-<summary><h5> Oorion, Personalized object detection with CLIP - Pytorch </h5></summary> 
+<summary><h5> Oorion, Personalized object detection with CLIP </h5></summary> 
 <br>
+
+This one is an exploration of everything that can be done to personalize detected objects and add classes to YOLOv5 with the minimum amount of manual annotation. 
+
+I did a huge literature review of Few-shot image classification, few-shot object detection, class agnostic detection, open-world object detection, CLIP, Referring expression comprehension.
+
+The research in zero-shot learning got so hot at that time. I designed a solution with a Class agnostic detector and CLIP on top of it. It achieved 0.20 mAP on COCO. However, a few days before the end of my internship, [One for all](https://arxiv.org/abs/2202.03052) got released and could do the same better and faster. 
+
+Pytorch, Hugging face
+Few-shot image classification, few-shot object detection, class agnostic detection, open-world object detection, CLIP, Referring expression comprehension
+
+
 </details>
 
 </details>
