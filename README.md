@@ -297,7 +297,7 @@ I joined this association at the same time as Automatants but I gradually left b
 <summary><h5> Website CI/CD - Gitlab </h5></summary> 
 <br>
 
-Simple project of creating CI/CD scripts on existing WebApps. Quality checkers, unit tests, automatic deployment.
+Creating CI/CD scripts on existing WebApps. Quality checkers, unit tests, automatic deployment.
 
 Workflow, CI/CD, Gitlab, Github
 
@@ -402,6 +402,7 @@ Here is a list of key features I worked on:
 - Timeseries classification
 
 AWS, Docker, Pytorch, Steamlit, Plotly
+
 Face landmarks detection, Voice activity detection, Speech-to-text
 
 
@@ -413,6 +414,9 @@ Face landmarks detection, Voice activity detection, Speech-to-text
 <details>
 <summary><h4> Photogen AI </h4></summary> 
 <br>
+
+
+
 <details>
 <summary><h5> Dreambooth adaptation to realistic images </h5></summary> 
 <br>
@@ -447,7 +451,7 @@ Face landmarks detection, Voice activity detection, Speech-to-text
 </details>
 
 <details>
-<summary><h5> Extremely accucurate subpixel coordinate regression </h5></summary> 
+<summary><h5> Extremely accurate subpixel coordinate regression </h5></summary> 
 <br>
 </details>
 
