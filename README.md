@@ -266,6 +266,21 @@ Imbalanced dataset, Resnet, MobileNetv2, ShuffleNetv2, Few-shot image classifica
 <details>
 <summary><h5> Genetic algorithm for mazes </h5></summary> 
 <br>
+
+Visualization of the game|
+:-----:|
+![Image of the game](assets/images/genetic-maze.png)|
+
+This project solves a maze game only knowing the distance to the exit. When the game begins, the player has to provide a list of moves (right, left, top, right). Then the environment returns the distance to the exit after following the list of moves. 
+
+I used a genetic algorithm to solve this game only for the sake of having fun with a genetic algorithm.
+
+The corresponding repository is [here](https://github.com/clementw168/Genetic-Maze)
+
+
+OOP, Genetic algorihtm, Pygame
+
+
 </details>
 
 </details> 
