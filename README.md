@@ -399,11 +399,11 @@ Here is a list of key features I worked on:
 - Benchmarking speech-to-text solutions (Whisper, AWS Transcribe, ...)
 - Setting up AWS Batch pipelines to optimize features extraction costs
 - Timeseries visualization with Plotly and Streamlit
-- Timeseries classification
+- Timeseries classification and break point detection
 
 AWS, Docker, Pytorch, Steamlit, Plotly
 
-Face landmarks detection, Voice activity detection, Speech-to-text
+Face landmarks detection, Voice activity detection, Speech-to-text, Time series classification and break point detection
 
 
 </details>
@@ -415,21 +415,42 @@ Face landmarks detection, Voice activity detection, Speech-to-text
 <summary><h4> Photogen AI </h4></summary> 
 <br>
 
-
+I got inspired by my internship in a Start-up in the United States. At the same time, I got really interested in Generative AI. A friend of mine invited me to create Photogen AI. The idea was to sell AI-generated images of the customers. 
 
 <details>
 <summary><h5> Dreambooth adaptation to realistic images </h5></summary> 
 <br>
+
+DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (CVPR 2023) was published and a lot of AI avatar apps popped out of nowhere. However, no one could generate qualitative realistic images. We focused on that, and after a few tricks with Dreambooth, we got decent to really good results. 
+
+Insert visu.
+
+Automatic 1111, Hugging face, diffusers
+Dreambooth, Stable diffusion
+
 </details>
 
 <details>
 <summary><h5> Implementation of AWS infrastructure and costs optimization </h5></summary> 
 <br>
+
+Turning all tests on Google Colab to production on AWS.
+
+Two production pipelines on AWS:
+- Inference with dynamic autoscaling group with warmup. Automatic scaling based on the monitoring of the number of SQS messages. 
+- Dreambooth fine-tuning with AWS Batch. 
+
 </details>
 
 <details>
 <summary><h5> Paris Gen AI Hackathon </h5></summary> 
 <br>
+One weekend competition on any technical subject related to Generative AI. 
+
+I worked on how to decrease the number of required images for Dreambooth. It became a huge literature review and testing of the latest repositories on Pose Transfer, Instruct pix2pix, pictures light adaptation, Background matting, etc.
+
+Add visualization
+
 </details>
 
 <details>
