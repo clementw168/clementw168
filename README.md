@@ -200,11 +200,15 @@ Tabular data, XGBoost, Feature engineering, Light GBM, CatBoost, Random forest
 <details>
 <summary><h5> President of the association </h5></summary>
 <br>
-From January 2021 to January 2022, I was the President of this student organization. It was probably the most fulfilling experience of my life. 20 people, tens of events, competition and so much fun.
+From January 2021 to January 2022, I was the President of this student organization. It was probably the most fulfilling experience of my life. 20 people, tens of events, competitions and so much fun.
 
 Here are some images: 
 
-TODO: insert images.
+
+![Group photo](assets/images/automatants.png )
+![Deep learning course](assets/images/formation.png)
+![Presentation event](assets/images/jdb.jpg)
+![Event](assets/images/bouge_la_science.png)
 
 
 </details>
@@ -233,7 +237,9 @@ GAN, Resnet, Progressive GAN, Wasserstein loss, Style GAN
 <summary><h5> Perceptual loss: Neural Style Transfer  </h5></summary> 
 <br>
 
-TODO: images
+Neural Stryle Transfer Visualization|
+:-----:|
+![Visualization of NST](assets/images/nst.png)|
 
 After GANs, I got hooked into perceptual losses. The idea of designing a "perceptual loss" instead of using a pixelwise loss so interesting that I had to implement it. 
 
@@ -288,6 +294,8 @@ OOP, Genetic algorihtm, Pygame
 <details>
 <summary><h4> ViaRézo, tech student association </h4></summary> 
 <br>
+
+![ViaRézo banner](/assets/banners/viarezo.jpg)
 
 [ViaRézo](https://viarezo.fr/) is the tech student association of CentraleSupélec. It provides an internet access and many web services (mailing lists, VMs, social media, etc.) to more than 2000 students.
 
