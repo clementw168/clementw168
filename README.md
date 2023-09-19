@@ -327,6 +327,8 @@ VM, Docker, Node JS, HTML, CSS
 <summary><h4> Paris Digital Lab - Digital Tech Year </h4></summary> 
 <br>
 
+![PDL banner](/assets/banners/paris_digital_lab.jpg)
+
 After one and half year studying general engineering, I wanted to discover the professional world so I started my one and half gap year.
 
 My first internship was with the Paris Digital Lab, a tech consulting company as a Machine learning consultant. I did 3 projects of 7 weeks with different companies, each of them with a Minimal viable product at the end following Scrum methodology. 
@@ -385,6 +387,8 @@ Few-shot image classification, few-shot object detection, class agnostic detecti
 <summary><h4> Polygon Technologies </h4></summary> 
 <br>
 
+![Polygon banner](assets/banners/polygon-banner.png)
+
 Six months internship at Polygon. [Polygon](https://hellopolygon.com/) is a new kind of psychology practice that provides remote diagnostics for dyslexia, ADHD, and other learning differences. The company is based at Santa Monica, California, United States. 
 
 
@@ -423,6 +427,14 @@ Face landmarks detection, Voice activity detection, Speech-to-text, Time series 
 <summary><h4> Photogen AI </h4></summary> 
 <br>
 
+![Photogen banner](assets/banners/photogen.jpg)
+
+App trailer|
+:-----:|
+[![Watch the video](http://img.youtube.com/vi/JS4UvhSgFzs/0.jpg)](https://youtu.be/JS4UvhSgFzs?si=a9LCaDQD6BRvJYIZ) |
+
+
+
 I got inspired by my internship in a Start-up in the United States. At the same time, I got really interested in Generative AI. A friend of mine invited me to create Photogen AI. The idea was to sell AI-generated images of the customers. 
 
 <details>
@@ -431,7 +443,6 @@ I got inspired by my internship in a Start-up in the United States. At the same 
 
 DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (CVPR 2023) was published and a lot of AI avatar apps popped out of nowhere. However, no one could generate qualitative realistic images. We focused on that, and after a few tricks with Dreambooth, we got decent to really good results. 
 
-Insert visu.
 
 Automatic 1111, Hugging face, diffusers
 Dreambooth, Stable diffusion
@@ -442,11 +453,18 @@ Dreambooth, Stable diffusion
 <summary><h5> Implementation of AWS infrastructure and costs optimization </h5></summary> 
 <br>
 
-Turning all tests on Google Colab to production on AWS.
+AWS Dashboard|
+:-----:|
+![AWS Dashboard](assets/images/aws.png)|
+
+Turning all tests on Google Colab to production on AWS. Creating dashboards and alerts to monitor errors.
 
 Two production pipelines on AWS:
 - Inference with dynamic autoscaling group with warmup. Automatic scaling based on the monitoring of the number of SQS messages. 
-- Dreambooth fine-tuning with AWS Batch. 
+- Dreambooth fine-tuning with AWS Batch.
+
+AWS, Docker, Fast API
+
 
 </details>
 
