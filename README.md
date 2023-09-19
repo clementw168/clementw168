@@ -443,6 +443,10 @@ I got inspired by my internship in a Start-up in the United States. At the same 
 
 DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation (CVPR 2023) was published and a lot of AI avatar apps popped out of nowhere. However, no one could generate qualitative realistic images. We focused on that, and after a few tricks with Dreambooth, we got decent to really good results. 
 
+In front of the Eiffel Tower| In front of the Kremlin | In Rome | Professional picture
+:-----:|:-----:|:-----: | :-----:
+![In front of the Eiffel Tower](assets/images/in%20front%20of%20the%20eiffel%20tower.jpg)| ![In front of the Kremlin](assets/images/in%20front%20of%20the%20Kremlin.jpg)| ![In Rome](assets/images/in%20Rome.jpg)| ![Professional Picture](assets/images/professional%20picture.jpg)| 
+
 
 Automatic 1111, Hugging face, diffusers
 Dreambooth, Stable diffusion
@@ -475,7 +479,9 @@ One weekend competition on any technical subject related to Generative AI.
 
 I worked on how to decrease the number of required images for Dreambooth. It became a huge literature review and testing of the latest repositories on Pose Transfer, Instruct pix2pix, pictures light adaptation, Background matting, etc.
 
-Add visualization
+Visualization. Prompt: Wearing a red suit at Cannes|
+:-----:|
+![Visualization](assets/images/replacement.png)|
 
 </details>
 
