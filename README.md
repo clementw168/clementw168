@@ -546,9 +546,10 @@ See my [report](assets/appendix/internship_stryker.pdf) for more information.
 <details>
 <summary><h5> Extremely accurate subpixel coordinate regression </h5></summary> 
 <br>
+Improving the estimation of centroids on blobs of light from 0.05 to 0.003 pixel error with Deep learning. 
+
 </details>
 
-Improving the estimation of centroids on blobs of light from 0.05 to 0.003 pixel error with Deep learning. 
 
 </details>
 
