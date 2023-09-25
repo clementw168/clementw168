@@ -488,6 +488,27 @@ Visualization. Prompt: Wearing a red suit at Cannes|
 <details>
 <summary><h5> Multi people image generation </h5></summary> 
 <br>
+
+A few weeks of work on group photo generation with personalized Dreambooth weights.
+
+Here are some visualizations for the following prompts:
+
+Positive: fantasy themed portrait of {token} with a unicorn horn party hat, vibrant rich colors, pink and blue mist, rainbow, magical atmosphere, drawing by ilya kuvshinov:1.0, Miho Hirano, Makoto Shinkai, Albert Lynch, 2D
+
+Negative: pictures from afar, bad glance, signature, black and white pictures
+
+Positive: digital oil painting of {token} (with a comically large head:1.2), big forehead, (fisheye:1.1), unrealistic proportions, portrait, caricature, closeup, rich vibrant colors, ambient lighting, 4k, HQ, concept art, illustration, ilya kuvshinov, lois van baarle, rossdraws, detailed, trending on artstation
+
+Negative: bad glance, signature, pictures from afar, black and white pictures
+
+
+
+| ![Image1](assets/images/group_dream_1.png)| ![Image2](assets/images/group_dream_2.png)| ![Image3](assets/images/group_dream_3.png)|
+|-|-|-|
+| ![Image4](assets/images/group_caricature_1.png)| ![Image5](assets/images/group_caricature_2.png)| ![Image6](assets/images/group_caricature_3.png)|
+
+CLIP Seg, Background Matting, ControlNet, Dreambooth
+
 </details>
 
 
@@ -498,9 +519,28 @@ Visualization. Prompt: Wearing a red suit at Cannes|
 <summary><h4> Stryker </h4></summary> 
 <br>
 
+<img align="center" src="assets/banners/stryker.jpg" alt="banner"/>
+
+Before coming back to the university, I decided to do another internship abroad. I got an opportunity at Stryker in Freiburg, Germany. 
+
+I had the chance to work in the R&D department of a big company and also to try the medical field. I really liked the environment of a big company and the people I met there. I also enjoyed working in Medtech as I felt that my work had a real meaning in saving lives. 
+
+You can consult my [internship report](assets/appendix/internship_stryker.pdf) and my [final presentation](assets/appendix/High%20Speed%20drill%20calibration.pptx).
+
 <details>
 <summary><h5> 3D calibration of chirurgical tools </h5></summary> 
 <br>
+
+Getting the 3D calibration of chirugical tools with a single video from a single RGB camera. Accelerating the pipeline from 2 minutes to 10 seconds. Reaching an error of 3.0 mm. 
+
+High speed drill calibration pipeline|
+:-----:|
+![Visualization](assets/images/HSD_calib.png)|
+
+See my [report](assets/appendix/internship_stryker.pdf) for more information. 
+
+3D Computer vision, Key points detection, triangulation
+
 </details>
 
 <details>
@@ -508,6 +548,7 @@ Visualization. Prompt: Wearing a red suit at Cannes|
 <br>
 </details>
 
+Improving the estimation of centroids on blobs of light from 0.05 to 0.003 pixel error with Deep learning. 
 
 </details>
 
@@ -522,8 +563,7 @@ Visualization. Prompt: Wearing a red suit at Cannes|
 <summary> A few facts about me </summary> 
 <br>
 
-- I was born Asian, grew up in a French environment and chose to be an international guy.
-
+- I was born Asian, grew up in a French environment and lived in the US and in Germany for 6 months.
 - I am a sports addict: volleyball, bouldering, spikeball, running, biking...
 - There is no fun if I don't aim for the best. Being competitive brings so much and it is ok not to be the best. 
 - I love both spending my time reading philosophy in a silent park and partying with friends.
