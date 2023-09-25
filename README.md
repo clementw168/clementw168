@@ -1,11 +1,12 @@
-<img align="center" src="assets/banners/stryker.jpg" alt="banner"/>
+<img align="center" src="assets/banners/CS-saclay.png" alt="banner"/>
 
 ---
 
 <h1 align="center">Hi 👋, I'm Clement Wang</h1>
 <h3 align="center">Machine learning enthousiast and Master of Science Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
 
-- 🌴 Currently in **Freiburg, Germany**, at [Stryker](https://www.stryker.com/de/en/index.html), as a Computer vision R&D intern.
+- 🌴 Currently living on the campus of the **University of Paris-Saclay**.
+- 🎓Double Master of Science student: **MVA Maths, Vision, Learning at ENS Paris-Saclay** and **Data Science at CentraleSupélec**.
 - 🔍 **Looking for a 6-month internship starting in April 2024**.
 - 🧐 Passionate about anything related to learning algorithms.
 
@@ -70,8 +71,13 @@
 <br>
 <details>
 
-<summary><h3> Deep learning topics I worked on </h3></summary> 
+<summary><h3> Machine learning topics I worked on </h3></summary> 
 <br>
+
+Classical Machine learning:
+- Regression, SVM
+- XGBoost, Light GBM, CatBoost
+- SHAP values, Anchor, LIME
 
 Computer vision:
 
@@ -84,8 +90,8 @@ Computer vision:
 - Few shot learning
 
 Text & Images
-- CLIP 
-- Diffusion models: Stable diffusion, Dreambooth, Controlnet
+- CLIP, CLIP Seg, SAM
+- Diffusion models: Stable diffusion, Dreambooth, ControlNet
 
 
 NLP:
