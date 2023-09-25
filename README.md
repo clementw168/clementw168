@@ -560,6 +560,25 @@ Improving the estimation of centroids on blobs of light from 0.05 to 0.003 pixel
 </details>
 
 
+<details>
+<summary><h4> Etandex </h4></summary> 
+<br>
+
+<img align="center" src="assets/banners/etandex.png" alt="banner"/>
+
+Right before coming back from Germany, I accepted a short mission of 2 months as a Freelance Data analyst at Etandex. 
+
+The project consisted in predicting the potential of a commercial opportunity. The client wanted deep insights on how to explain the predictions of the algorithms. 
+
+SHAP value summary plot|
+:-----:|
+![Visualization](assets/images/shap.png)|
+
+XGBoost, SHAP value, LIME, Anchor
+
+</details>
+
+
 </details>
 
 
