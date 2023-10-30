@@ -96,17 +96,20 @@ Text & Images
 
 NLP:
 - Text classification
+- LLMs fine-tuning, text generation
 
 Speech:
 - Voice activity detection
 - Speech-to-text
 
 Time series:
+- DTW, dictionary learning
 - Time series classification
 - Breakpoint detection
 
 Other:
 - Uncertainty estimation
+- Spiking neural network
 
 
 </details>
