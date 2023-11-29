@@ -80,7 +80,6 @@ Classical Machine learning:
 - SHAP values, Anchor, LIME
 
 Computer vision:
-
 - Image classification and regression
 - GAN
 - Perceptual loss, neural style transfer, super-resolution
@@ -106,10 +105,17 @@ Time series:
 - DTW, dictionary learning
 - Time series classification
 - Breakpoint detection
+- Adaptive Brownian bridge-based aggregation representation
+
+Game Theory and RL:
+- Monte Carlo, Q-learning, TD(0), SARSA 
+- DQN, PPO
+- PSRO
 
 Other:
 - Uncertainty estimation
 - Spiking neural network
+- Mixture density network
 
 
 </details>
