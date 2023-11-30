@@ -74,7 +74,7 @@
 <summary><h3> Machine learning topics I worked on </h3></summary> 
 <br>
 
-Classical Machine learning:
+Classical Machine Learning:
 - Regression, SVM
 - XGBoost, Light GBM, CatBoost
 - SHAP values, Anchor, LIME
@@ -128,7 +128,7 @@ Other:
 <summary><h3> Projects overview </h3></summary> 
 <br>
 
-These projects are ordered chronogically. Not everything is related to AI. 
+These projects are ordered chronologically. Not everything is related to AI. 
 
 
 
@@ -139,7 +139,7 @@ These projects are ordered chronogically. Not everything is related to AI.
 
 ![CentraleSupélec banner](/assets/banners/CS-saclay.png)
 
-As a student, I was still not sure what I wanted to do in my life. After a Bachelor in maths, physics and algorithmics and I got into one of the best university of France. That's when I started to try out different things...
+As a student, I was still not sure what I wanted to do in my life. After a Bachelor's in maths, physics, and algorithmics I got into one of the best universities in France. That's when I started to try out different things...
 
 <details>
 <summary><h5> Game Jam: 3D Horror Game </h5></summary>
@@ -151,7 +151,7 @@ Game trailer|
 
 My very first group coding project with a team of 5 people. We designed and developed a 3D Horror Game on Unity in C# within 1 week.
 
-I mainly worked on the interactions with the environment, the fighting gameplay and mobs' behavior.
+I mainly worked on the interactions with the environment, the fighting gameplay, and mobs' behavior.
 
 You can download the game [here](https://drive.google.com/file/d/1QAxTDq3LyYiQcaBdpUdU7sxK0e0sgb4l/view?usp=drive_link).
 
@@ -167,9 +167,9 @@ Our robot           | Photo of the playground
 :-------------------------:|:-------------------------:
 ![Photo of our robot](assets/images/croc_1.jpg)  |  ![Photo of the playground](assets/images/croc_2.jpg)
 
-Building an autonomous robot that moves in a defined environment and move objects within a team of 11 people in about one year.
+Building an autonomous robot that moves in a defined environment and moves objects within a team of 11 people in about one year.
 
-We had a fixed camera outside of the game board. I worked on the localization of the robot and the detection of the objects and obstacles from the camera and the transmission of this information. 
+We had a fixed camera outside of the game board. I worked on the localization of the robot, the detection of the objects and obstacles from the camera, and the transmission of this information. 
 
 OpenCV, Python, Bluetooth
 
@@ -181,7 +181,7 @@ OpenCV, Python, Bluetooth
 
 ![Logo of Pasteur institut](assets/images/pasteur.jpg) 
 
-One week project in colaboration with the Pasteur institut. Study of links between genes from reactions to different stimulus on R. 
+One-week project in collaboration with the Pasteur institute. Study of links between genes from reactions to different stimuli on R. 
 
 R Studio, Unsupervised learning, PCA, Joint graphical lasso
 
@@ -210,12 +210,12 @@ Tabular data, XGBoost, Feature engineering, Light GBM, CatBoost, Random forest
 
 ![Automatants banner](assets/banners/automatants-banner.jfif)
 
-[Automatants](https://automatants.cs-campus.fr/) is the AI student organization of CentraleSupélec. It promotes Machine learning at CentraleSupélec, gathering skills and sharing knowledge through courses, events, competitions and projects. 
+[Automatants](https://automatants.cs-campus.fr/) is the AI student organization of CentraleSupélec. It promotes Machine learning at CentraleSupélec, gathering skills and sharing knowledge through courses, events, competitions, and projects. 
 
 <details>
 <summary><h5> President of the association </h5></summary>
 <br>
-From January 2021 to January 2022, I was the President of this student organization. It was probably the most fulfilling experience of my life. 20 people, tens of events, competitions and so much fun.
+From January 2021 to January 2022, I was the President of this student organization. It was probably the most fulfilling experience of my life. 20 people, tens of events, competitions, and so much fun.
 
 Here are some images: 
 
@@ -238,7 +238,7 @@ Generated cats|
 
 This was my very first Deep learning personal project. The goal was to generate cat images. I got a dataset from the internet and I took my very first step in Deep learning.
 
-I started with a simple DCGAN, then a GAN with residual connexions, changed the loss to a Wasserstein loss and at the end I trained Progressive GAN. I read the papers for Style GAN but did not implement it.
+I started with a simple DCGAN, then a GAN with residual connexions changed the loss to a Wasserstein loss, and at the end I trained Progressive GAN. I read the papers for Style GAN but did not implement it.
 
 To make it public, I served it on the website of my association with Tensorflow JS. Try it [here](https://automatants.cs-campus.fr/projects/cat-generator).
 
@@ -256,9 +256,9 @@ Neural Stryle Transfer Visualization|
 :-----:|
 ![Visualization of NST](assets/images/nst.png)|
 
-After GANs, I got hooked into perceptual losses. The idea of designing a "perceptual loss" instead of using a pixelwise loss so interesting that I had to implement it. 
+After GANs, I got hooked on perceptual losses. The idea of designing a "perceptual loss" instead of using a pixel-wise loss was so interesting that I had to implement it. 
 
-After implementing the vanilla version of neural style transfer, I wanted to have a quicker method to get stylish images so I implemented fast neural style transfer. I consists in using a generator network to directly transform an image to minimize the perceptual loss. I managed to transfer style in real-time from my camera. 
+After implementing the vanilla version of neural style transfer, I wanted to have a quicker method to get stylish images so I implemented fast neural style transfer. It consists in using a generator network to directly transform an image to minimize perceptual loss. I managed to transfer style in real time from my camera. 
 
 Tensorflow, Keras, OpenCV
 Perceptual loss, Neural style transfer, Fast NST, VGG loss
@@ -275,11 +275,11 @@ Visualization of the dataset|
 
 Winning a competition on imbalanced image classification. This competition was the occasion to apply everything I learned in one year.
 
-My best model was an ensemble of MobileNetv2 nets trained with semi-supervised learning and a lot of regularization (label smoothing, drop out, weight decay).
+My best model was an ensemble of MobileNetv2 nets trained with semi-supervised learning and a lot of regularization (label smoothing, dropout, weight decay).
 
 [Here](https://github.com/clementw168/Imbalanced-Quickdraw) is the repository of my code for more details.
 
-Tensorflow, Keras
+TensorFlow, Keras
 Imbalanced dataset, Resnet, MobileNetv2, ShuffleNetv2, Few-shot image classification, Semi-supervised learning, Regularization
 
 </details> 
@@ -312,7 +312,7 @@ OOP, Genetic algorihtm, Pygame
 
 ![ViaRézo banner](/assets/banners/viarezo.jpg)
 
-[ViaRézo](https://viarezo.fr/) is the tech student association of CentraleSupélec. It provides an internet access and many web services (mailing lists, VMs, social media, etc.) to more than 2000 students.
+[ViaRézo](https://viarezo.fr/) is the tech student association of CentraleSupélec. It provides internet access and many web services (mailing lists, VMs, social media, etc.) to more than 2000 students.
 
 I joined this association at the same time as Automatants but I gradually left because of the lack of theoretical challenge. 
 
@@ -322,7 +322,7 @@ I joined this association at the same time as Automatants but I gradually left b
 
 Creating CI/CD scripts on existing WebApps. Quality checkers, unit tests, automatic deployment.
 
-Workflow, CI/CD, Gitlab, Github
+Workflow, CI/CD, Gitlab, GitHub
 
 </details>
 
@@ -344,7 +344,7 @@ VM, Docker, Node JS, HTML, CSS
 
 ![PDL banner](/assets/banners/paris_digital_lab.jpg)
 
-After one and half year studying general engineering, I wanted to discover the professional world so I started my one and half gap year.
+After one and half years of studying general engineering, I wanted to discover the professional world so I started my one and half gap years.
 
 My first internship was with the Paris Digital Lab, a tech consulting company as a Machine learning consultant. I did 3 projects of 7 weeks with different companies, each of them with a Minimal viable product at the end following Scrum methodology. 
 
@@ -354,9 +354,9 @@ Consulting was not my thing. Even though projects can be very different and chal
 <summary><h5> Confidential company, YoloV3 on radio wave detection </h5></summary> 
 <br>
 
-This project was about detecting and classifying radio signal in the IQ format. The IQ format is a timeseries of complex numbers, representing two orthogonal components of a radio signal.
+This project was about detecting and classifying radio signals in the IQ format. The IQ format is a time series of complex numbers, representing two orthogonal components of a radio signal.
 
-A visualization of the Fast Fourrier Transform of the signal was enough to convince us that Object detection was a good way to solve that problem. 
+A visualization of the Fast Fourier Transform of the signal was enough to convince us that Object detection was a good way to solve that problem. 
 
 YOLOv3 achieved 0.95 mAP @ IOU 0.5 on the task.
 
@@ -369,7 +369,7 @@ Pytorch, YOLO, RCNN, Object detection, Unet, Semantic segmentation, signal proce
 <summary><h5> L'Oréal Research&Innovation, Retrieving lipstick from selfies </h5></summary> 
 <br>
 
-This project is about lipstick retrieval from a selfie. The approach is to first, find the lips with Face landmarks detection, then crop on these lips and predict optical properties on the lipstick. From these properties, find the best fit in a database of lipsticks. 
+This project is about lipstick retrieval from a selfie. The approach is to first, find the lips with Face landmarks detection, then crop on these lips and predict the optical properties of the lipstick. From these properties, find the best fit in a database of lipsticks. 
 
 I used Dlib out-of-the-box for the face landmarks detection. The regression task was made with a regression CNN. And then the matching was a weighted L2 score on optical properties.
 
@@ -388,7 +388,7 @@ This one is an exploration of everything that can be done to personalize detecte
 
 I did a huge literature review of Few-shot image classification, few-shot object detection, class agnostic detection, open-world object detection, CLIP, Referring expression comprehension.
 
-The research in zero-shot learning got so hot at that time. I designed a solution with a Class agnostic detector and CLIP on top of it. It achieved 0.20 mAP on COCO. However, a few days before the end of my internship, [One for all](https://arxiv.org/abs/2202.03052) got released and could do the same better and faster. 
+The research in zero-shot learning got so hot at that time. I designed a solution with a class-agnostic detector and CLIP on top of it. It achieved 0.20 mAP on COCO. However, a few days before the end of my internship, [One for all](https://arxiv.org/abs/2202.03052) was released, and could do the same better and faster. 
 
 Pytorch, Hugging face
 Few-shot image classification, few-shot object detection, class agnostic detection, open-world object detection, CLIP, Referring expression comprehension
@@ -404,7 +404,7 @@ Few-shot image classification, few-shot object detection, class agnostic detecti
 
 ![Polygon banner](assets/banners/polygon-banner.png)
 
-Six months internship at Polygon. [Polygon](https://hellopolygon.com/) is a new kind of psychology practice that provides remote diagnostics for dyslexia, ADHD, and other learning differences. The company is based at Santa Monica, California, United States. 
+Six months internship at Polygon. [Polygon](https://hellopolygon.com/) is a new kind of psychology practice that provides remote diagnostics for dyslexia, ADHD, and other learning differences. The company is based in Santa Monica, California, United States. 
 
 
 <details>
@@ -415,7 +415,7 @@ Six months internship at Polygon. [Polygon](https://hellopolygon.com/) is a new 
 
 I worked on a project to assist diagnosis of learning differences. The global idea is that we record testing sessions of patients with a camera. 
 
-From these videos, we extract all the usefull information as timeseries. And then, we use these timeseries to understand what happened at what moment because of what. This approach gets rid of high dimensional video data. At the same time, it makes the global pipeline much more interpretable which is so important in the medical field where mistakes can cost a lot.
+From these videos, we extract all the useful information as time series. And then, we use these time series to understand what happened at what moment because of what. This approach gets rid of high-dimensional video data. At the same time, it makes the global pipeline much more interpretable which is so important in the medical field where mistakes can cost a lot.
 
 
 Here is a list of key features I worked on:
@@ -424,13 +424,13 @@ Here is a list of key features I worked on:
 - Voice activity detection with Gaussian mixture models
 - 3D face landmarks detection with Face alignment nets
 - Benchmarking speech-to-text solutions (Whisper, AWS Transcribe, ...)
-- Setting up AWS Batch pipelines to optimize features extraction costs
-- Timeseries visualization with Plotly and Streamlit
-- Timeseries classification and break point detection
+- Setting up AWS Batch pipelines to optimize feature extraction costs
+- Time series visualization with Plotly and Streamlit
+- Time series classification and breakpoint detection
 
 AWS, Docker, Pytorch, Steamlit, Plotly
 
-Face landmarks detection, Voice activity detection, Speech-to-text, Time series classification and break point detection
+Face landmarks detection, Voice activity detection, Speech-to-text, Time series classification, and breakpoint detection
 
 
 </details>
@@ -546,7 +546,7 @@ You can consult my [internship report](assets/appendix/internship_stryker.pdf) a
 <summary><h5> 3D calibration of chirurgical tools </h5></summary> 
 <br>
 
-Getting the 3D calibration of chirugical tools with a single video from a single RGB camera. Accelerating the pipeline from 2 minutes to 10 seconds. Reaching an error of 3.0 mm. 
+Getting the 3D calibration of surgical tools with a single video from a single RGB camera. Accelerating the pipeline from 2 minutes to 10 seconds. Reaching an error of 3.0 mm. 
 
 High speed drill calibration pipeline|
 :-----:|
@@ -577,7 +577,7 @@ Improving the estimation of centroids on blobs of light from 0.05 to 0.003 pixel
 
 Right before coming back from Germany, I accepted a short mission of 2 months as a Freelance Data analyst at Etandex. 
 
-The project consisted in predicting the potential of a commercial opportunity. The client wanted deep insights on how to explain the predictions of the algorithms. 
+The project consisted of predicting the potential of a commercial opportunity. The client wanted deep insights on how to explain the predictions of the algorithms. 
 
 SHAP value summary plot|
 :-----:|
