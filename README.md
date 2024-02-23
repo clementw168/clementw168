@@ -538,33 +538,9 @@ CLIP Seg, Background Matting, ControlNet, Dreambooth
 
 Before coming back to the university, I decided to do another internship abroad. I got an opportunity at Stryker in Freiburg, Germany. 
 
-I had the chance to work in the R&D department of a big company and also to try the medical field. I really liked the environment of a big company and the people I met there. I also enjoyed working in Medtech as I felt that my work had a real meaning in saving lives. 
+I had the chance to work in the R&D department of a big company and also to try the medical field. I liked the environment of a big company and the people I met there. I also enjoyed working in Medtech as I felt that my work had a real meaning in saving lives. 
 
-You can consult my [internship report](assets/appendix/internship_stryker.pdf) and my [final presentation](assets/appendix/High%20Speed%20drill%20calibration.pptx).
-
-<details>
-<summary><h5> 3D calibration of chirurgical tools </h5></summary> 
-<br>
-
-Getting the 3D calibration of surgical tools with a single video from a single RGB camera. Accelerating the pipeline from 2 minutes to 10 seconds. Reaching an error of 3.0 mm. 
-
-High speed drill calibration pipeline|
-:-----:|
-![Visualization](assets/images/HSD_calib.png)|
-
-See my [report](assets/appendix/internship_stryker.pdf) for more information. 
-
-3D Computer vision, Key points detection, triangulation
-
-</details>
-
-<details>
-<summary><h5> Extremely accurate subpixel coordinate regression </h5></summary> 
-<br>
-Improving the estimation of centroids on blobs of light from 0.05 to 0.003 pixel error with Deep learning. 
-
-</details>
-
+3D Computer vision, Key points detection, triangulation, subpixel coordinate regression
 
 </details>
 
