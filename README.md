@@ -64,8 +64,8 @@
 - Simpler is better
 - If it does not work, there is a reason behind
 - Theory unlocks imagination, experience brings intuition
-- Theory is not enough, while testing takes time
-- Solving a problem is not getting the best metric
+- Theory is not enough, and experimenting takes time
+- Solving a problem does not mean getting the best metric
 
 
 </details>
