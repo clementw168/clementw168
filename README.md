@@ -15,6 +15,7 @@
     <a href="https://linkedin.com/in/clem-wang" target="blank"><img align="center" src="assets/icon/linkedin.svg" alt="https://linkedin.com/in/clem-wang" height="30" width="40" /></a>
     <a href="mailto:clementwang.pro@gmail.com" target="blank"><img align="center" src="assets/icon/mail.png" alt="mailto:clementwang.pro@gmail.com" height="50" width="40" /></a>
     <a href="https://instagram.com/clement_wang_" target="blank"><img align="center" src="assets/icon/instagram.svg" alt="https://instagram.com/clement_wang_" height="30" width="40" /></a>
+    <a href="https://medium.com/@clem-wang" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="https://medium.com/@clem-wang" height="30" width="40" /></a>
 </p>
 
 ---
@@ -26,6 +27,7 @@
 - Programming Languages:
     <p align="left">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="assets/icon/python.svg" alt="python" width="40" height="40"/> </a>
+        <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png" alt="Julia" width="40" height="40"/> </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     </p>
