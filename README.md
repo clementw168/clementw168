@@ -136,7 +136,7 @@ These projects are ordered chronologically. Not everything is related to AI.
 
 <details>
 
-<summary><h4> Student projects </h4></summary> 
+<summary><h4> Student projects - 3rd and 4th years at CentraleSupélec </h4></summary> 
 <br>
 
 ![CentraleSupélec banner](/assets/banners/CS-saclay.png)
@@ -212,7 +212,8 @@ Tabular data, XGBoost, Feature engineering, Light GBM, CatBoost, Random forest
 
 ![Automatants banner](assets/banners/automatants-banner.jfif)
 
-[Automatants](https://automatants.cs-campus.fr/) is the AI student organization of CentraleSupélec. It promotes Machine learning at CentraleSupélec, gathering skills and sharing knowledge through courses, events, competitions, and projects. 
+[Automatants](https://automatants.cs-campus.fr/) is the AI student organization of CentraleSupélec. It promotes Machine learning at CentraleSupélec, gathering skills and sharing knowledge through courses, events, competitions, and projects.
+While I was in my 3rd year, I joined this association out of curiosity and I was the President of it in my 4th year.
 
 <details>
 <summary><h5> President of the association </h5></summary>
@@ -346,7 +347,7 @@ VM, Docker, Node JS, HTML, CSS
 
 ![PDL banner](/assets/banners/paris_digital_lab.jpg)
 
-After one and half years of studying general engineering, I wanted to discover the professional world so I started my one and half gap years.
+After one and half years of studying general engineering, I wanted to discover the professional world so I started my one-and-half-year gap year.
 
 My first internship was with the Paris Digital Lab, a tech consulting company as a Machine learning consultant. I did 3 projects of 7 weeks with different companies, each of them with a Minimal viable product at the end following Scrum methodology. 
 
@@ -565,6 +566,114 @@ XGBoost, SHAP value, LIME, Anchor
 
 </details>
 
+<details>
+<summary><h4> Student projects - Last year at CentraleSupélec and MVA Master at ENS Paris-Saclay </h4></summary>
+<br>
+
+![CentraleSupélec banner](/assets/banners/CS-saclay.png)
+![MVA banner](/assets/banners/MVA-banner.jpg)
+
+After coming back from Germany, I started my last year at CentraleSupélec and the prestigious MVA Master at ENS Paris-Saclay. I was more focused on AI and I had a lot of theoretical courses. I had the chance to work on a lot of projects with a lot of different people. It was probably the most intense year of my life.
+
+<details>
+<summary><h5> Spiking Neural Networks </h5></summary>
+<br>
+
+Short one-week project on Spiking Neural Networks. We aimed to explain the behavior of a spiking neural network and we benchmarked the performance of SNNs on image classification and time series classification.
+
+![Spiking NN basics](https://raw.githubusercontent.com/clementw168/Spiking-Neural-Networks-Benchmark/main/assets/LIF_model.png)
+
+The code and the reports are available [here](https://github.com/clementw168/Spiking-Neural-Networks-Benchmark).
+
+</details>
+
+<details>
+<summary><h5> Satellite data competition and publication </h5></summary>
+<br>
+
+The goal of this competition was to predict the leaf area index for each pixel of a satellite images captured by Sentinel 1 and 2. The competition took place in April 2023.
+
+![Satellite data](https://raw.githubusercontent.com/clementw168/LeafNothingBehind/main/assets/data.png)
+
+The repository of the code is [here](https://github.com/clementw168/LeafNothingBehind). 
+
+
+Our paper got accepted at the [2023 Big Data from Space (BiDS) conference](https://www.bigdatafromspace2023.org/) that took place from 6 to 9 November 2023 in Vienna, Austria. The paper is available [here](https://raw.githubusercontent.com/clementw168/LeafNothingBehind/main/assets/paper.pdf).
+
+
+
+</details>
+
+<details>
+<summary><h5> Time series </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> ALTEGRAD </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> Mixture density networks </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> Deep learning for medical images </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> Flappy bird RL </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> Food chain RL </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> NLP: emotion classification </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> MLNS: Edge prediction </h5></summary>
+<br>
+
+<details>
+<summary><h5> MLNS: Architecture benchmarking on Twitch dataset </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> BML </h5></summary>
+<br>
+
+</details>
+
+<details>
+<summary><h5> TDL </h5></summary>
+<br>
+
+</details>
+
+</details>
+
+
+
+</details>
+
 
 </details>
 
@@ -573,7 +682,7 @@ XGBoost, SHAP value, LIME, Anchor
 
 <details>
 
-<summary> A few facts about me </summary> 
+<summary> A few facts about myself </summary> 
 <br>
 
 - I was born Asian, grew up in a French environment and lived in the US and in Germany for 6 months.
