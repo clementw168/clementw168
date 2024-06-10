@@ -605,8 +605,22 @@ Our paper got accepted at the [2023 Big Data from Space (BiDS) conference](https
 </details>
 
 <details>
-<summary><h5> Time series </h5></summary>
+<summary><h5> Implementation of the ABBA symbolic representation of time series </h5></summary>
 <br>
+
+Part of the [Machine Learning for Time Series course](http://www.laurentoudre.fr/ast.html) of Laurent Oudre. Implementation of two papers on time series representation.
+
+![LSTM on raw dataset](https://raw.githubusercontent.com/clementw168/abba-lstm/main/assets/raw-lstm-sunspots.png)
+![LSTM on ABBA](https://raw.githubusercontent.com/clementw168/abba-lstm/main/assets/abba-lstm-sunspots.png)
+
+Full report [here](https://raw.githubusercontent.com/clementw168/abba-lstm/main/report.pdf).
+
+Github repository [here](https://github.com/clementw168/abba-lstm)
+
+References:
+
+Elsworth, S., & Güttel, S. (2020). ABBA: Adaptive Brownian bridge-based symbolic aggregation of time series. Data Mining and Knowledge Discovery, 34(4), 1175-1200. [Link](https://arxiv.org/abs/2003.12469).
+Elsworth, S., & Güttel, S. (2020). Time series forecasting using LSTM networks: A symbolic approach. arXiv preprint arXiv:2003.05672. [Link](https://arxiv.org/abs/2003.05672).
 
 </details>
 
