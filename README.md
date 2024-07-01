@@ -342,7 +342,7 @@ VM, Docker, Node JS, HTML, CSS
 
 </details>
 <details>
-<summary><h4> Paris Digital Lab - Digital Tech Year </h4></summary> 
+<summary><h4> Machine learning consultant at Paris Digital Lab - Digital Tech Year </h4></summary> 
 <br>
 
 ![PDL banner](/assets/banners/paris_digital_lab.jpg)
@@ -691,6 +691,26 @@ Github repository [here](https://github.com/clementw168/Altegrad-Kaggle)
 </details>
 
 </details>
+
+
+
+</details>
+
+<details>
+<summary><h4> Google DeepMind x CentraleSupélec - Improving Nash Equilibrium finding algorithms</h4></summary>
+<br>
+
+![DeepMind banner](/assets/banners/DeepMind.png)
+
+During my last year at CentraleSupélec, I had the chance to work with Google DeepMind on a research project from October 2023 to April 2024.
+
+The goal of the project was to improve the convergence speed of FoReL based algorithms with population based ideas. We designed an algorithm and showed a huge gain of convergence speed on two-player zero-sum Normal form games. 
+
+![Algorithm](https://raw.githubusercontent.com/tboulet/Algorithms-for-Normal-Form-Games/main/assets/mp_b_palforel.png)
+
+Full report [here](https://raw.githubusercontent.com/tboulet/Algorithms-for-Normal-Form-Games/main/Project%20report.pdf).
+
+Github repository [here](https://github.com/tboulet/Algorithms-for-Normal-Form-Games)
 
 
 
