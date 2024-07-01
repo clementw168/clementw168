@@ -588,7 +588,7 @@ The code and the reports are available [here](https://github.com/clementw168/Spi
 </details>
 
 <details>
-<summary><h5> Satellite data competition and publication </h5></summary>
+<summary><h5> Satellite images competition and publication </h5></summary>
 <br>
 
 The goal of this competition was to predict the leaf area index for each pixel of a satellite images captured by Sentinel 1 and 2. The competition took place in April 2023.
@@ -605,7 +605,7 @@ Our paper got accepted at the [2023 Big Data from Space (BiDS) conference](https
 </details>
 
 <details>
-<summary><h5> Implementation of the ABBA symbolic representation of time series </h5></summary>
+<summary><h5> Implementation of ABBA symbolic representation of time series </h5></summary>
 <br>
 
 Part of the [Machine Learning for Time Series course](http://www.laurentoudre.fr/ast.html) of Laurent Oudre. Implementation of two papers on time series representation.
@@ -625,8 +625,16 @@ Elsworth, S., & Güttel, S. (2020). Time series forecasting using LSTM networks:
 </details>
 
 <details>
-<summary><h5> ALTEGRAD </h5></summary>
+<summary><h5> Text-based molecule retrieval </h5></summary>
 <br>
+
+Part of the [Advanced learning for text and graph data course](https://www.master-mva.com/cours/cat-advanced-learning-for-text-and-graph-data-altegrad/) of Michalis Vazirgiannis. The goal was to retrieve molecules from a text query.
+
+![Architecture](https://raw.githubusercontent.com/clementw168/Altegrad-Kaggle/main/graph_text_contrastive.png)
+
+Full report [here](https://raw.githubusercontent.com/clementw168/Altegrad-Kaggle/main/report.pdf).
+
+Github repository [here](https://github.com/clementw168/Altegrad-Kaggle)
 
 </details>
 
