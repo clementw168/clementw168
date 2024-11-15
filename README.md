@@ -642,6 +642,16 @@ Github repository [here](https://github.com/clementw168/Altegrad-Kaggle)
 <summary><h5> Mixture density networks </h5></summary>
 <br>
 
+Part of the [Probabilistic Graphical Models and Deep Generative Models course](https://lmbp.uca.fr/~latouche/mva/IntroductiontoProbabilisticGraphicalModelsMVA.html) of Pierre Latouche and Pierre-Alexandre Mattei. The goal was to implement mixture density networks and evaluate their efficiency on several datasets.
+
+![Poster](https://raw.githubusercontent.com/clementw168/mixture-density-net/main/assets/poster.jpg)
+
+Full report [here](https://raw.githubusercontent.com/clementw168/mixture-density-net/main/assets/report.pdf).
+
+Github repository [here](https://github.com/clementw168/mixture-density-net)
+
+Poster [here](https://raw.githubusercontent.com/clementw168/mixture-density-net/main/assets/poster.pdf)
+
 </details>
 
 <details>
