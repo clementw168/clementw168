@@ -674,6 +674,12 @@ Github repository [here](https://github.com/clementw168/Lymphocytosis-classifica
 <summary><h5> Flappy bird RL </h5></summary>
 <br>
 
+Part of the Reinforcement learning course of [Stergios Christodoulidis](https://stergioc.github.io/). The goal was to implement simple reinforcement learning algorithms to play Flappy Bird.
+
+![Flappy bird](https://raw.githubusercontent.com/clementw168/Flappy-Bird-RL/main/TFB_agent.gif)
+
+Full report [here](https://raw.githubusercontent.com/clementw168/Flappy-Bird-RL/main/report.pdf).
+
 </details>
 
 <details>
