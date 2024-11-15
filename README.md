@@ -655,8 +655,18 @@ Poster [here](https://raw.githubusercontent.com/clementw168/mixture-density-net/
 </details>
 
 <details>
-<summary><h5> Deep learning for medical images </h5></summary>
+<summary><h5> Lymphocytosis classification </h5></summary>
 <br>
+
+Part of the [Deep learning for medical imaging course](https://www.aramislab.fr/teaching/DLMI-2020-2021/) of Olivier Colliot and 
+Maria Vakalopoulou.
+
+
+This project focuses on developing an automated system to distinguish between reactive and tumoral lymphocytosis using blood smear images and patient attributes. The dataset includes samples from 204 patients, with 142 for training and 42 for testing, collected from the Lyon Sud University Hospital. The goal is to assist clinicians in identifying cases requiring flow cytometry, reducing costs and improving diagnostic accuracy.
+
+Github repository [here](https://github.com/clementw168/Lymphocytosis-classification)
+
+
 
 </details>
 
