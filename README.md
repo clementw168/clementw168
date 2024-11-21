@@ -705,6 +705,18 @@ Poster [here](https://raw.githubusercontent.com/antoine311200/prey-predator-rl/m
 <summary><h5> NLP: emotion classification </h5></summary>
 <br>
 
+Part of the [Natural Language Processing course](https://sites.google.com/view/dsba-nlp-course/home?authuser=0) of Naver Labs Europe. The project consists in classifying between three labels (neutral / positive / negative) how a sentence is perceived given an aspect of it (wether it is about the food quality, the general ambiance and so on) highlighted by a specific word in the sentence.
+
+![Emotion classification](https://raw.githubusercontent.com/antoine311200/nlp-aspect-term-polarity/main/images/sample.png)
+
+We fine-tuned DistilBert for that specific task.
+
+![Architecture](https://raw.githubusercontent.com/antoine311200/nlp-aspect-term-polarity/main/images/model.png)
+
+More details in the [repository](https://github.com/antoine311200/nlp-aspect-term-polarity)
+
+
+
 </details>
 
 <details>
