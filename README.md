@@ -680,11 +680,24 @@ Part of the Reinforcement learning course of [Stergios Christodoulidis](https://
 
 Full report [here](https://raw.githubusercontent.com/clementw168/Flappy-Bird-RL/main/report.pdf).
 
+Github repository [here](https://github.com/clement168/Flappy-Bird-RL)
+
 </details>
 
 <details>
-<summary><h5> Food chain RL </h5></summary>
+<summary><h5> Prey Predator simulation </h5></summary>
 <br>
+
+Part of the Reinforcement learning course of [Stergios Christodoulidis](https://stergioc.github.io/). This project simulates a prey-predator environment. Reinforcement learning is used to learn the behavior of each agent. To encourage cooperation, we used the MADDPG algorithm.
+
+![Prey Predator](https://raw.githubusercontent.com/antoine311200/prey-predator-rl/main/assets/demo.gif)
+
+Full report [here](https://raw.githubusercontent.com/antoine311200/prey-predator-rl/main/report.pdf).
+
+Github repository [here](https://github.com/antoine311200/prey-predator-rl)
+
+Poster [here](https://raw.githubusercontent.com/antoine311200/prey-predator-rl/main/assets/poster.pdf)
+
 
 </details>
 
