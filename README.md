@@ -7,7 +7,7 @@
 
 - 🌴 Currently living in the suburbs of Paris.
 - 🎓 Double Master of Science student: **MVA Maths, Vision, Learning at ENS Paris-Saclay** and **Data Science at CentraleSupélec**.
-- 🔍 **Looking for a full-time Machine learning researcher position or a PhD position starting in November 2024**.
+- 🔍 **Looking for a full-time Machine learning researcher position or a PhD position**.
 - 🧐 Passionate about anything related to learning algorithms.
 
 <h3 align="left">Connect with me:</h3>
@@ -642,11 +642,31 @@ Github repository [here](https://github.com/clementw168/Altegrad-Kaggle)
 <summary><h5> Mixture density networks </h5></summary>
 <br>
 
+Part of the [Probabilistic Graphical Models and Deep Generative Models course](https://lmbp.uca.fr/~latouche/mva/IntroductiontoProbabilisticGraphicalModelsMVA.html) of Pierre Latouche and Pierre-Alexandre Mattei. The goal was to implement mixture density networks and evaluate their efficiency on several datasets.
+
+![Poster](https://raw.githubusercontent.com/clementw168/mixture-density-net/main/assets/poster.jpg)
+
+Full report [here](https://raw.githubusercontent.com/clementw168/mixture-density-net/main/assets/report.pdf).
+
+Github repository [here](https://github.com/clementw168/mixture-density-net)
+
+Poster [here](https://raw.githubusercontent.com/clementw168/mixture-density-net/main/assets/poster.pdf)
+
 </details>
 
 <details>
-<summary><h5> Deep learning for medical images </h5></summary>
+<summary><h5> Lymphocytosis classification </h5></summary>
 <br>
+
+Part of the [Deep learning for medical imaging course](https://www.aramislab.fr/teaching/DLMI-2020-2021/) of Olivier Colliot and 
+Maria Vakalopoulou.
+
+
+This project focuses on developing an automated system to distinguish between reactive and tumoral lymphocytosis using blood smear images and patient attributes. The dataset includes samples from 204 patients, with 142 for training and 42 for testing, collected from the Lyon Sud University Hospital. The goal is to assist clinicians in identifying cases requiring flow cytometry, reducing costs and improving diagnostic accuracy.
+
+Github repository [here](https://github.com/clementw168/Lymphocytosis-classification)
+
+
 
 </details>
 
@@ -654,11 +674,30 @@ Github repository [here](https://github.com/clementw168/Altegrad-Kaggle)
 <summary><h5> Flappy bird RL </h5></summary>
 <br>
 
+Part of the Reinforcement learning course of [Stergios Christodoulidis](https://stergioc.github.io/). The goal was to implement simple reinforcement learning algorithms to play Flappy Bird.
+
+![Flappy bird](https://raw.githubusercontent.com/clementw168/Flappy-Bird-RL/main/TFB_agent.gif)
+
+Full report [here](https://raw.githubusercontent.com/clementw168/Flappy-Bird-RL/main/report.pdf).
+
+Github repository [here](https://github.com/clement168/Flappy-Bird-RL)
+
 </details>
 
 <details>
-<summary><h5> Food chain RL </h5></summary>
+<summary><h5> Prey Predator simulation </h5></summary>
 <br>
+
+Part of the Reinforcement learning course of [Stergios Christodoulidis](https://stergioc.github.io/). This project simulates a prey-predator environment. Reinforcement learning is used to learn the behavior of each agent. To encourage cooperation, we used the MADDPG algorithm.
+
+![Prey Predator](https://raw.githubusercontent.com/antoine311200/prey-predator-rl/main/assets/demo.gif)
+
+Full report [here](https://raw.githubusercontent.com/antoine311200/prey-predator-rl/main/report.pdf).
+
+Github repository [here](https://github.com/antoine311200/prey-predator-rl)
+
+Poster [here](https://raw.githubusercontent.com/antoine311200/prey-predator-rl/main/assets/poster.pdf)
+
 
 </details>
 
@@ -666,31 +705,69 @@ Github repository [here](https://github.com/clementw168/Altegrad-Kaggle)
 <summary><h5> NLP: emotion classification </h5></summary>
 <br>
 
+Part of the [Natural Language Processing course](https://sites.google.com/view/dsba-nlp-course/home?authuser=0) of Naver Labs Europe. The project consists in classifying between three labels (neutral / positive / negative) how a sentence is perceived given an aspect of it (wether it is about the food quality, the general ambiance and so on) highlighted by a specific word in the sentence.
+
+![Emotion classification](https://raw.githubusercontent.com/antoine311200/nlp-aspect-term-polarity/main/images/sample.png)
+
+We fine-tuned DistilBert for that specific task.
+
+![Architecture](https://raw.githubusercontent.com/antoine311200/nlp-aspect-term-polarity/main/images/model.png)
+
+More details in the [repository](https://github.com/antoine311200/nlp-aspect-term-polarity)
+
+</details>
+
+
+<details>
+<summary><h5> Graph Neural Network benchmark on Twitch dataset </h5></summary>
+<br>
+
+Part of the [Machine Learning on Network Science course](https://fragkiskos.me/teaching/MLNS-S22/) of Fragkiskos Malliaros. The goal was to benchmark different architectures on the Twitch dataset on several classification and regression tasks.
+
+![Learning curves](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/refs/heads/main/assets/learning_curves.png?token=GHSAT0AAAAAAC2RC6333GDX4T6JZGQWA6VSZ2ATL3A)
+
+Full report [here](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/main/assets/report.pdf).
+
+Github repository [here](https://github.com/3gaspo/mlns_twitch_project)
+
 </details>
 
 <details>
-<summary><h5> MLNS: Edge prediction </h5></summary>
+<summary><h5> Averaging Weights Leads to Wider Optima and Better Generalization </h5></summary>
 <br>
 
-<details>
-<summary><h5> MLNS: Architecture benchmarking on Twitch dataset </h5></summary>
-<br>
+Part of the [Bayesien Machine Learning course](https://github.com/rbardenet/bml-course) of Rémi Bardenet. The goal was to implement the paper "Averaging Weights Leads to Wider Optima and Better Generalization" by Pavel Izmailov, Dmitrii Podoprikhin, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson.
+
+
+Loss landscape comparison for MobileNet V2 on CIFAR100|
+:-----:|
+![Visualization](https://raw.githubusercontent.com/ThomasLEMERCIER/BayesianML-SWA/main/runs/cifar100_mobilenet.png)|
+
+
+Full report [here](https://raw.githubusercontent.com/ThomasLEMERCIER/BayesianML-SWA/main/BayesianML_Report.pdf).
+
+Github repository [here](https://github.com/ThomasLEMERCIER/BayesianML-SWA)
 
 </details>
 
 <details>
-<summary><h5> BML </h5></summary>
+<summary><h5> Implicit acceleration by overparameterization </h5></summary>
 <br>
 
+Part of the [Theoretical Principles of Deep Learning course](https://hedi-hadiji.github.io/tdl-page/intro.html) of Hedi Hadiji. The goal was to reimplement the paper [Arora, S., Cohen, N., & Hazan, E. (2018, July). On the optimization of deep networks: Implicit acceleration by overparameterization. In International Conference on Machine Learning (pp. 244-253). PMLR.
+](https://arxiv.org/abs/1802.06509)
+
+![Learning curves](https://raw.githubusercontent.com/clementw168/Implicit-acceleration-by-overparametrization/main/assets/learning_curves.png)
+
+Full report [here](https://raw.githubusercontent.com/clementw168/Implicit-acceleration-by-overparametrization/main/assets/report.pdf).
+
+Presentation slides [here](https://raw.githubusercontent.com/clementw168/Implicit-acceleration-by-overparametrization/main/assets/slides.pdf).
+
+Github repository [here](https://github.com/clementw168/Implicit-acceleration-by-overparametrization)
+
+
 </details>
 
-<details>
-<summary><h5> TDL </h5></summary>
-<br>
-
-</details>
-
-</details>
 
 
 
