@@ -7,7 +7,7 @@
 
 - 🌴 Currently living in the suburbs of Paris.
 - 🎓 Double Master of Science student: **MVA Maths, Vision, Learning at ENS Paris-Saclay** and **Data Science at CentraleSupélec**.
-- 🔍 **Looking for a full-time Machine learning researcher position or a PhD position starting in November 2024**.
+- 🔍 **Looking for a full-time Machine learning researcher position or a PhD position**.
 - 🧐 Passionate about anything related to learning algorithms.
 
 <h3 align="left">Connect with me:</h3>
@@ -715,6 +715,8 @@ We fine-tuned DistilBert for that specific task.
 
 More details in the [repository](https://github.com/antoine311200/nlp-aspect-term-polarity)
 
+</details>
+
 
 <details>
 <summary><h5> Graph Neural Network benchmark on Twitch dataset </h5></summary>
@@ -722,7 +724,7 @@ More details in the [repository](https://github.com/antoine311200/nlp-aspect-ter
 
 Part of the [Machine Learning on Network Science course](https://fragkiskos.me/teaching/MLNS-S22/) of Fragkiskos Malliaros. The goal was to benchmark different architectures on the Twitch dataset on several classification and regression tasks.
 
-![Learning curves](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/main/assets/learning_curves.png)
+![Learning curves](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/refs/heads/main/assets/learning_curves.png?token=GHSAT0AAAAAAC2RC6333GDX4T6JZGQWA6VSZ2ATL3A)
 
 Full report [here](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/main/assets/report.pdf).
 
@@ -749,12 +751,23 @@ Github repository [here](https://github.com/ThomasLEMERCIER/BayesianML-SWA)
 </details>
 
 <details>
-<summary><h5> TDL </h5></summary>
+<summary><h5> Implicit acceleration by overparameterization </h5></summary>
 <br>
 
-</details>
+Part of the [Theoretical Principles of Deep Learning course](https://hedi-hadiji.github.io/tdl-page/intro.html) of Hedi Hadiji. The goal was to reimplement the paper [Arora, S., Cohen, N., & Hazan, E. (2018, July). On the optimization of deep networks: Implicit acceleration by overparameterization. In International Conference on Machine Learning (pp. 244-253). PMLR.
+](https://arxiv.org/abs/1802.06509)
+
+![Learning curves](https://raw.githubusercontent.com/clementw168/Implicit-acceleration-by-overparametrization/main/assets/learning_curves.png)
+
+Full report [here](https://raw.githubusercontent.com/clementw168/Implicit-acceleration-by-overparametrization/main/assets/report.pdf).
+
+Presentation slides [here](https://raw.githubusercontent.com/clementw168/Implicit-acceleration-by-overparametrization/main/assets/slides.pdf).
+
+Github repository [here](https://github.com/clementw168/Implicit-acceleration-by-overparametrization)
+
 
 </details>
+
 
 
 
