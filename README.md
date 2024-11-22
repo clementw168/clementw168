@@ -716,22 +716,35 @@ We fine-tuned DistilBert for that specific task.
 More details in the [repository](https://github.com/antoine311200/nlp-aspect-term-polarity)
 
 
+<details>
+<summary><h5> Graph Neural Network benchmark on Twitch dataset </h5></summary>
+<br>
+
+Part of the [Machine Learning on Network Science course](https://fragkiskos.me/teaching/MLNS-S22/) of Fragkiskos Malliaros. The goal was to benchmark different architectures on the Twitch dataset on several classification and regression tasks.
+
+![Learning curves](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/main/assets/learning_curves.png)
+
+Full report [here](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/main/assets/report.pdf).
+
+Github repository [here](https://github.com/3gaspo/mlns_twitch_project)
 
 </details>
 
 <details>
-<summary><h5> MLNS: Edge prediction </h5></summary>
+<summary><h5> Averaging Weights Leads to Wider Optima and Better Generalization </h5></summary>
 <br>
 
-<details>
-<summary><h5> MLNS: Architecture benchmarking on Twitch dataset </h5></summary>
-<br>
+Part of the [Bayesien Machine Learning course](https://github.com/rbardenet/bml-course) of Rémi Bardenet. The goal was to implement the paper "Averaging Weights Leads to Wider Optima and Better Generalization" by Pavel Izmailov, Dmitrii Podoprikhin, Timur Garipov, Dmitry Vetrov, Andrew Gordon Wilson.
 
-</details>
 
-<details>
-<summary><h5> BML </h5></summary>
-<br>
+Loss landscape comparison for MobileNet V2 on CIFAR100|
+:-----:|
+![Visualization](https://raw.githubusercontent.com/ThomasLEMERCIER/BayesianML-SWA/main/runs/cifar100_mobilenet.png)|
+
+
+Full report [here](https://raw.githubusercontent.com/ThomasLEMERCIER/BayesianML-SWA/main/BayesianML_Report.pdf).
+
+Github repository [here](https://github.com/ThomasLEMERCIER/BayesianML-SWA)
 
 </details>
 
