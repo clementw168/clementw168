@@ -89,6 +89,7 @@ Computer vision:
 - Semantic segmentation
 - Key points detection
 - Few shot learning
+- Self-supervised learning: SimCLR, BYOL, MoCO, SwAV, DINO
 
 Text & Images
 - CLIP, CLIP Seg, SAM
@@ -108,6 +109,7 @@ Time series:
 - Time series classification
 - Breakpoint detection
 - Adaptive Brownian bridge-based aggregation representation
+- Self-supervised learning for time series
 
 Game Theory and RL:
 - Monte Carlo, Q-learning, TD(0), SARSA 
