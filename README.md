@@ -793,6 +793,19 @@ Github repository [here](https://github.com/tboulet/Algorithms-for-Normal-Form-G
 
 </details>
 
+<details>
+<summary><h4> Beacon Biosignals </h4></summary>
+<br>
+
+![Beacon Biosignals banner](/assets/banners/beacon-banner.png)
+
+This was my Master thesis internship before graduating. I worked at Beacon Biosignals, an American startup. The company is developing a platform to monitor and predict sleep disorders using wearable devices. 
+
+I worked on training a foundation model for sleep EEG time series using self-supervised learning, adapting methods from computer vision such as contrastive learning and DINO to EEG data. This approach achieved 80.02% accuracy on sleep staging with 95% fewer labels, representing only a 2.6% performance drop compared to using fully annotated data.
+
+
+</details>
+
 
 </details>
 
