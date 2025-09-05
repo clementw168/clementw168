@@ -3,11 +3,11 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Clement Wang</h1>
-<h3 align="center">Machine learning enthousiast and Master of Science Student (🎓 Oct 2024) from Paris, France 🇫🇷.</h3>
+<h3 align="center">Machine learning enthousiast and PhD Candidate at Institut Polytechnique de Paris (🎓 2028) from Paris, France 🇫🇷.</h3>
 
 - 🌴 Currently living in the suburbs of Paris.
-- 🎓 Double Master of Science student: **MVA Maths, Vision, Learning at ENS Paris-Saclay** and **Data Science at CentraleSupélec**.
-- 🔍 **Looking for a full-time Machine learning researcher position or a PhD position**.
+- 🎓 Graduated in 2024 from: **MVA Maths, Vision, Learning at ENS Paris-Saclay** and **Data Science at CentraleSupélec**.
+- 🔍 **PhD student at Institut Polytechnique de Paris in graph representation learning**.
 - 🧐 Passionate about anything related to learning algorithms.
 
 <h3 align="left">Connect with me:</h3>
