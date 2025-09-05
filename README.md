@@ -382,11 +382,11 @@ More details in the [repository](https://github.com/antoine311200/nlp-aspect-ter
 
 Part of the [Machine Learning on Network Science course](https://fragkiskos.me/teaching/MLNS-S22/) of Fragkiskos Malliaros. The goal was to benchmark different architectures on the Twitch dataset on several classification and regression tasks.
 
-![Learning curves](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/refs/heads/main/assets/learning_curves.png?token=GHSAT0AAAAAAC2RC6333GDX4T6JZGQWA6VSZ2ATL3A)
+![Learning curves](https://raw.githubusercontent.com/clementw168/mlns_twitch_project/main/assets/learning_curves.png)
 
-Full report [here](https://raw.githubusercontent.com/3gaspo/mlns_twitch_project/main/assets/report.pdf).
+Full report [here](https://raw.githubusercontent.com/clementw168/mlns_twitch_project/main/assets/report.pdf).
 
-Github repository [here](https://github.com/3gaspo/mlns_twitch_project)
+Github repository [here](https://github.com/clementw168/mlns_twitch_project)
 
 </details>
 
