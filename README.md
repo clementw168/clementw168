@@ -30,6 +30,8 @@
         <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png" alt="Julia" width="40" height="40"/> </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+
     </p>
 
 - Data Science:
@@ -40,6 +42,7 @@
         <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+        <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="spark" width="40" height="40"/> </a>
     </p>
 
 - Techs:
@@ -50,6 +53,7 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
         <a href="https://wandb.ai/site" target="_blank" rel="noreferrer"> <img src=assets/icon/weights-and-biases.png alt="weights and biases" width="40" height="40"/> </a>
         <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src=assets/icon/aws.png alt="AWS" width="40" height="40"/> </a>
+        <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="40" height="40"/> </a>
 
 
     </p>
@@ -58,7 +62,7 @@
 
 ---
 <details>
-<summary><h3> My Deep learning beliefs </h3></summary>
+<summary><h3> My Machine learning beliefs </h3></summary>
 <br>
 
 - Simpler is better
@@ -112,9 +116,13 @@ Time series:
 - Self-supervised learning for time series
 
 Game Theory and RL:
-- Monte Carlo, Q-learning, TD(0), SARSA 
+- Monte Carlo, Q-learning, TD(0), SARSA
 - DQN, PPO
 - PSRO
+
+Graphs:
+- Graph neural networks: GCN, GAT, GraphSAGE, GIN
+- Graph representation learning
 
 Other:
 - Uncertainty estimation
@@ -131,6 +139,56 @@ Other:
 
 <summary><h3> Projects overview </h3></summary> 
 <br>
+
+<details>
+<summary><h4> PhD Candidate at Institut Polytechnique de Paris and Mirakl - September 2025 to present </h4></summary>
+<br>
+
+![IP Paris banner](/assets/banners/ip-paris-banner.png)
+![Mirakl banner](/assets/banners/mirakl-banner.jpeg)
+
+I am currently a PhD candidate at Institut Polytechnique de Paris, supervised by [Thomas Bonald](https://perso.telecom-paristech.fr/bonald/Home_page.html).
+
+I am working on graph representation learning, with a focus on self-supervised learning.
+
+
+</details>
+
+<details>
+<summary><h4> Mirakl - Data scientist - December 2024 to August 2025 </h4></summary>
+<br>
+
+![Mirakl banner](/assets/banners/mirakl-banner.jpeg)
+
+Mirakl is a French scale up that provides a SaaS platform for e-commerce companies to manage their operations. I worked as a data scientist on the Core team. After my Master thesis, I was wondering what my next step would be. I had been interested in the tech sector for a while.
+
+<details>
+<summary><h4> Delivery date estimation - December 2024 to August 2025 </h4></summary>
+<br>
+
+Beta version trailer|
+:-----:|
+[![Watch the video](https://vimeo.com/1090794835)](https://vimeo.com/1090794835) |
+
+I built a delivery date estimation model for Mirakl. I built the model, validated the performances with the product team, deployed the model in production, and created a dashboard to monitor the model's performance.
+
+The beta program started in July 2025 with three clients, providing delivery date estimations for 50k orders per week. The general release is planned for late September 2025.
+
+Time series forecasting, Spark, Databricks, Airflow, MLFlow
+
+</details>
+
+<details>
+<summary><h4> Product and sellers recommendations - July 2025 to August 2025 </h4></summary>
+<br>
+
+I built a product and sellers recommendations model for Mirakl. I was working on the proof of concept with other team members before the start of my PhD.
+
+Recommender systems, Spark, Databricks
+
+</details>
+
+</details>
 
 <details>
 <summary><h4> Beacon Biosignals - Training a foundation model for EEG time series - May 2024 to Oct 2024 </h4></summary>
