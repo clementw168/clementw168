@@ -856,7 +856,9 @@ Visualization of geo data|
 :-----:|
 ![Visualization of geo data](assets/images/tabular_compet.jpg)|
 
-Ranked 2nd over 72 in a course competition on tabular data competition. 
+Ranked 2nd over 72 in a course competition on tabular data competition.
+
+Full report [here](assets/appendix/ml_course_kaggle_report.pdf).
 
 Tabular data, XGBoost, Feature engineering, Light GBM, CatBoost, Random forest
 
