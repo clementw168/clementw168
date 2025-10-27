@@ -3,12 +3,14 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Clement Wang</h1>
-<h3 align="center">Machine learning enthousiast and PhD Candidate at Institut Polytechnique de Paris (🎓 2028) from Paris, France 🇫🇷.</h3>
+<h3 align="center">Machine learning enthousiast and PhD Student in Graph Representation Learning at Institut Polytechnique de Paris (🎓 2028) from Paris, France 🇫🇷.</h3>
 
 - 🌴 Currently living in the suburbs of Paris.
 - 🎓 Graduated in 2024 from: **MVA Maths, Vision, Learning at ENS Paris-Saclay** and **Data Science at CentraleSupélec**.
 - 🔍 **PhD student at Institut Polytechnique de Paris in graph representation learning**.
 - 🧐 Passionate about anything related to learning algorithms.
+
+I will stop updating this README. For more about me, feel free to visit my website [https://clementw168.github.io/](https://clementw168.github.io/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
